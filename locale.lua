@@ -25,6 +25,19 @@ Lang = {
     ["new_order"]        ="Yeni Sipariş var: ",
     ["taked_order"]      ="Bir sipariş aldın konumu haritanda işaretlendi.",    
   },
+  ["ES"] = {
+    ["blip_name"]          ="Punto de entrega",
+    ["error"]              ="Hay un error!",
+    ["dont_have"]          ="Tu no tienes: ",
+    ["dont_have_any"]      ="Tu no tienes ninguno: ",
+    ["too_late"]           ="El pedido fue cancelado porque era demasiado tarde!",
+    ["notify_on"]          ="Nuevas notificaciones de pedidos abiertas!",
+    ["notify_off"]         ="Notificaciones de nuevos pedidos Cerrado!",
+    ["other_guy_take"]     ="Este pedido acaba de ser recibido por otra persona!",
+    ["you_have_already"]   ="Ya tienes un pedido, entrégalo primero!",
+    ["new_order"]          ="Hay un nuevo Orden: ",
+    ["taked_order"]        ="Recibiste un pedido, su ubicación está marcada en el mapa.",    
+  },
 }
 
 
